@@ -1,0 +1,27 @@
+body{
+    background-image: url("src/Fondo0")
+}
+
+.uno{
+    position: absolute;
+    top: 180px;
+    left: 280px;
+    width: 700px;
+    height:50px;
+    color: rgb(248, 216, 38);
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.boton{
+    position: absolute;
+    color: white;
+    background-color: rgb(23, 22, 9);
+    top: 320px;
+    left: 10px;
+    width: 400px;
+    height: 45px;
+    font-size: 35px;
+    border: 0px;
+    border-radius: 10px;
+}

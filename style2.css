@@ -1,0 +1,175 @@
+body{
+    background-image: url("src/Fondo2.jpg")
+}
+.titulo{
+    position: absolute;
+    top: 80px;
+    left: 120px;
+    width: auto;
+    height:100px;
+    color: rgb(250, 247, 247);
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.cuadro{
+    background-color: rgba(0, 0, 0, 0.613);
+    border-radius: 25px;
+    position: absolute;
+    top: 230px;
+    left: 500px;
+    width: 400px;
+    height:200px;
+    color: white;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+.cuadro2{
+    
+    position: absolute;
+    top: 30px;
+    left: 100px;
+    width: 400px;
+    height:200px;
+    color: white;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+.cuadro3{
+    position: absolute;
+    top: 50px;
+    left: 21px;
+    width: 400px;
+    height:200px;
+    color: white;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 
+}
+
+.cuadro_transferencia{
+    background-color: rgba(0, 0, 0, 0.613);
+    border-radius: 25px;
+    position: absolute;
+    top: 440px;
+    left: 500px;
+    width: 400px;
+    height:50px;
+    color: white;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+.cuadro_transferencia2{
+    /* background-color: aqua; */
+    position: absolute;
+    top: 10px;
+    left: 120px;
+    width: 180px;
+    height:27px;
+    color: white;
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+.cuadrotransferencias{
+    background-color: rgba(0, 0, 0, 0.0);
+    border-radius: 10px;
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    width: 151px;
+    height:120px;
+    color: white;
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+.cuadrotransferencias2{
+    /* background-color: aqua; */
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    width: 90px;
+    height:140px;
+    color: white;
+    font-size: px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+.cuadrodeposito{
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 10px;
+    position: absolute;
+    top: 500px;
+    left: 750px;
+    width: 151px;
+    height:120px;
+    color: white;
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+.cuadrodeposito2{
+    /* background-color: aqua; */
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    width: 90px;
+    height:140px;
+    color: white;
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+.boton2{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    background-color: rgb(247, 207, 8);
+    top: 15px;
+    left: 0;
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    border: 10px;
+    border-radius: 10px;
+}
+
+.boton3{
+    /* position: absolute; */
+    color: white;
+    background-color: rgb(168, 126, 0);
+    top: center;
+    left: 0;
+    width: 80px;
+    height: 30px;
+    font-size: 15px;
+    border: 10px;
+    border-radius: 10px;
+}
+
+.saldofinal{
+    color: aliceblue;
+    left: center;
+    background-color: rgba(0, 0, 0, .001);
+    border: 0px;
+    width: 120px;
+    height: 45px;
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.monto5{
+    position: absolute;
+    left: 0px;
+    border-radius: 10px;
+    font-size: 15px;
+}
